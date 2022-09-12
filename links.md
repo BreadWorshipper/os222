@@ -16,4 +16,4 @@ permalink: LINKS/
 # LINKS
 
 1. [Bash Scripting for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)<br>
-Testing
+The article above is a good read if you want to get into and learn bash scripting.
