@@ -1,4 +1,4 @@
 ”permalink: /LINKS/.”
 
-https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+1. [Bash Scripting Tutorial] https://linuxconfig.org/bash-scripting-tutorial-for-beginners <br>
 Testing
