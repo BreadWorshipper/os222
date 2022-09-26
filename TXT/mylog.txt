@@ -16,3 +16,7 @@ ZCZC W02 100 L02 Monday class on Zoom Meeting
 ZCZC W02 35 L05 Studying and quiz on Scele
 ZCZC W02 100 L02 Thursday class on Zoom Meeting
 ZCZC W02 180 L12 Working on Weekly Assignment #02
+ZCZC W03 60 L12 Working on Weekly Assignment #03
+ZCZC W03 100 L02 Tuesday class on Zoom Meeting
+ZCZC W03 100 L02 Thursday offline class at campus
+ZCZC W03 45 L05 Quiz related
