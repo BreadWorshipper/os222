@@ -24,3 +24,7 @@ ZCZC W04 10 L05 Qiz related
 ZCZC W04 110 L02 Tuesday class on Zoom Meeting
 ZCZC W04 20 L03 GitHub related
 ZCZC W04 30 L03 Weekly Assignments
+ZCZC W05 100 L02 Tuesday class on Zoom Meeting
+ZCZC W05 60 L15 Weekly Assignment
+ZCZC W05 10 L03 GitHub related
+ZCZC W05 20 L05 Studied for the Quiz but somehow missed it
