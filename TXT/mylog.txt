@@ -28,3 +28,6 @@ ZCZC W05 100 L02 Tuesday class on Zoom Meeting
 ZCZC W05 60 L15 Weekly Assignment
 ZCZC W05 10 L03 GitHub related
 ZCZC W05 20 L05 Studied for the Quiz but somehow missed it
+ZCZC W06 30 L16 Working on Week06 Assignment
+ZCZC W06 200 L02 Offline class on Tuesday and Thursday
+ZCZC W06 20 L07 Testing Demo
