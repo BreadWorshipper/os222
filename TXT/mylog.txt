@@ -34,3 +34,6 @@ ZCZC W06 20 L07 Testing Demo
 ZCZC W07 200 L02 Offline class on Tuesday and Thursday
 ZCZC W07 60 L17 Working on Week07 Assignment
 ZCZC W07 20 L05 Quiz stuff
+ZCZC W08 200 L02 Class on Tuesday and Thursday
+ZCZC W08 60 L18 working on week08 assignment
+ZCZC W08 20 L05 Studying and working on quiz
