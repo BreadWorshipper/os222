@@ -40,3 +40,6 @@ ZCZC W08 20 L05 Studying and working on quiz
 ZCZC W09 200 L02 Class on Tuesday and Thursday
 ZCZC W09 300 L19 Working on Week09 Assignment
 ZCZC W09 10 L05 quiz related
+ZCZC W10 10 Quiz related
+ZCZC W10 200 L20 Working on Week10 Assignment
+ZCZC W10 200 L02 Class
